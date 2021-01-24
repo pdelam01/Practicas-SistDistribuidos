@@ -5,6 +5,6 @@ Input file where data was taken: http://datosabiertos.jcyl.es/web/jcyl/set/es/me
 
 ### Compilation and execution
 Runing the program: 
-  -mvn package
-  -mvn compile
-  -hadoop jar hadoop-PracticeNO2.jar -conf ./conf/hadoop-local.xml ./input/ ./output
+  - mvn package
+  - mvn compile
+  - hadoop jar hadoop-PracticeNO2.jar -conf ./conf/hadoop-local.xml ./input/ ./output
