@@ -8,3 +8,6 @@ Runing the program:
   - mvn package
   - mvn compile
   - hadoop jar hadoop-PracticeNO2.jar -conf ./conf/hadoop-local.xml ./input/ ./output
+  
+### Output file
+It will contain information about the different values of NO2 in the province capitals of Castilla y León
