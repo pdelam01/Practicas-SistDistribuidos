@@ -1,22 +1,3 @@
-/**
- *************************************************************************************
- * All rights reserved (C) 2018-2019 by Jose Maria Foces Moran and
- * José María Foces Vivancos
- *
- * TCP-Server.c
- *
- * Stream-socket based server for basic TCP protocol analysis
- * Server responds to requests sent by clientAddress
- *
- * v 1.3.2
- * · Improved the naming of a few functions nd variables
- * · Solved problem printing IP/Port of clientAddress the first time
- * accept() is called
- * · Added the capability of sending the date in a printable string
- * · Refactored some functions' signature seeking more self-consistency
- * ·
- *************************************************************************************
- */
 
 #include <stdio.h>
 #include <stdlib.h>
