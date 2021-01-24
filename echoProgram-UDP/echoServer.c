@@ -1,9 +1,3 @@
-/*
- * (C) José María Foces Morán
- * Computer Networks 2017
- * Basic, non-reentrant, UDP-based Echo Server
- * 
- */
 
 #include <stdio.h>
 #include <stdlib.h>
