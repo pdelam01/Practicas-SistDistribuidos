@@ -1,11 +1,3 @@
-/*
- * (C) José María Foces Morán, Universidad de León
- *
- * Prácticas de Telecomunicaciones en la Industria 2017
- *
- * UDP Echo client: Sends a message 5 times and checks response from server
- *
- */
 
 #include <stdio.h>
 #include <stdlib.h>
