@@ -1,17 +1,4 @@
 
-/**
- *******************************************************************
- * All rights reserved (C) 2018-2019 by Jose Maria Foces Moran and
- * José María Foces Vivancos
- *
- * TCP-Client.c
- *
- * Stream-socket based client for basic TCP protocol analysis
- * Sends a string to a TCP server and checks the echo response
- * v 1.1.0
- *******************************************************************
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
