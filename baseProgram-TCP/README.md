@@ -2,8 +2,8 @@
 
 After compiling both programs, open two terminals:
 
-1º terminal: ./tcp-server
-2º terminal: ./nc <IP-SERVER> <PORT-SERVER>
+1. 1º terminal: ./tcp-server
+2. 2º terminal: ./nc <IP-SERVER> <PORT-SERVER>
 
 On terminal 2:
   - Sending "Shotdown server" will cause the server to stop. Server will answer your request.
