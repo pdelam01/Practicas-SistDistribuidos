@@ -1,5 +1,5 @@
 ## Hadoop Practice: NO2 Air Quality Castilla y León.
-![alt text](https://www.diegocalvo.es/wp-content/uploads/2016/05/hadoop.png)
+![alt text](https://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png)
 
 ### Input file
 Input file where data was taken: http://datosabiertos.jcyl.es/web/jcyl/set/es/mediciones/calidad_aire_historico/1284212629698
