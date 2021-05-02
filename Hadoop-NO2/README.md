@@ -1,5 +1,5 @@
 ## Hadoop Practice: NO2 Air Quality Castilla y León.
-![alt text](https://raw.githubusercontent.com/pdelam01/main/Practicas-SistDistribuidos/Hadoop-NO2/img-readme/hadoop-logo.png)
+![alt text](https://w1.pngwing.com/pngs/998/1018/png-transparent-hadoop-logo-apache-hadoop-hortonworks-big-data-hadoop-yarn-hadoop-distributed-filesystem-apache-hive-database.png)
 
 ### Input file
 Input file where data was taken: http://datosabiertos.jcyl.es/web/jcyl/set/es/mediciones/calidad_aire_historico/1284212629698
